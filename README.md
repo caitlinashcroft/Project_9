@@ -8,4 +8,6 @@ Lab Notebook
 **Department**: MRC Brain Network Dynamics Unit, Nuffield Department of Clinical Neurosciences <br>
 **GitHub**: https://github.com/caitlinashcroft/Project_9
 
-The repo contains our Jupyter notebook allowing for easy sharing and merging of our work
+The repo contains our Jupyter notebook allowing for easy sharing and merging of our work.
+
+The data this notebook acts upon cannot be uploaded as it is not yet in the public domain.
